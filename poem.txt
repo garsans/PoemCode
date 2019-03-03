@@ -5,6 +5,7 @@ Pink
 Green
 Orange
 Blue
+Indigo
 Yellow
 Red
 These are the colors pf the rainbow.
