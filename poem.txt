@@ -6,6 +6,7 @@ Green
 Orange
 Blue
 Indigo
+Recycle!
 Yellow
 Red
 These are the colors pf the rainbow.
